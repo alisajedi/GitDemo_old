@@ -1,5 +1,6 @@
 This is another test file.
-It wad created in the terminal only.
 All rights reserved.
-Ali S
+It wad created in the browser and terminal.
+All rights reserved.
+Ali Sajedi
 Done.
