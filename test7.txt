@@ -1,5 +1,5 @@
 This is another test file.
-It wad created in the browser and treminal.
+It wad created in the browser.
 All rights reserved.
 Ali Sajedi
 Done.
